@@ -1,4 +1,4 @@
-# Access final Web Design Dashboard here: https://kinlacheeny.github.io/Web-Design-Challenge/
+## Access final Web Design Dashboard here: https://kinlacheeny.github.io/Web-Design-Challenge/
 
 # Web-Design-Challenge - JB Kinlacheeny - January 23, 2021
 Homework #11 - Web Design Homework - Web Visualization Dashboard (Latitude)
