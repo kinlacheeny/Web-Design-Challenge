@@ -1,4 +1,4 @@
-###Access final website here : https://kinlacheeny.github.io/Web-Design-Challenge/index.html
+# Access final website here : https://kinlacheeny.github.io/Web-Design-Challenge/index.html
 
 # Web-Design-Challenge
 Homework #11 - Web Design Homework - Web Visualization Dashboard (Latitude)
